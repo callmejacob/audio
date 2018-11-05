@@ -1,4 +1,4 @@
-* openal编译(android): 
+* openal库编译(android): 
 
 (https://github.com/kcat/openal-soft)
 
